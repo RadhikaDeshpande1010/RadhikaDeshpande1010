@@ -42,7 +42,7 @@ Proficient in business analysis, data analysis, data visualization, and reportin
 
 <h4 align="center">🔗 &nbsp;Connect with me:</h4>
 <div align="center">
-  <a href="mailto:radhika.deshpande@gmail.com">
+  <a href="mailto:radhikadeshpande1010@gmail.com">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/gmail.png" height="43" width="46" />
   </a>
   
