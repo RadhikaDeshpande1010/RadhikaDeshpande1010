@@ -5,7 +5,8 @@
 <p align="left">Dynamic, high-caliber Data Analyst professional from India.  
 Proficient in business analysis, data analysis, data visualization, and reporting with keen eye for detail and a passion for solving business challenges through data-driven solutions. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. 
 
-*Few of my notable achievements:* <br/>
+<hr4> <i> Few of my notable achievements: </i> </h4>  
+
 ❇ Barclays Recognition Award <br/>
 ❇ Barclays “Service” Value <br/>
 ❇ Barclays “Excellence” & “Drive” & “Challenge” Value <br/> </p>
@@ -16,13 +17,11 @@ Proficient in business analysis, data analysis, data visualization, and reportin
 💬  Ask me anything, I will be more than happy to help :grinning: <br>
 </div>
 
-<hr/>
+<h2 align="left"> ⚙️ Tech Stach </h2>
 
-<h3 align="center">🛠 Tech Stach</h3>
+<h4 align="left"> 🥇&nbsp;Highlights of Core Competencies&nbsp;🥇 </h4>
 
-<h4 align="center">⚙ &nbsp;Highlights of Core Competencies&nbsp; ⚙</h4>
-
-<h4 align="center">⚒️ &nbsp;Languages and Tools&nbsp; ⚒️</h4>
+<h4 align="left"> 🛠️&nbsp;Languages and Tools&nbsp;🛠️ </h4>
 
 <div align="center">
   <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/power_bi.png" height="50" width="50">
@@ -40,7 +39,7 @@ Proficient in business analysis, data analysis, data visualization, and reportin
   <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/BA.png" height="50" width="50">
 </div>
 
-<h4 align="center">🔗 &nbsp;Connect with me:</h4>
+<h4 align="left"> ♻️&nbsp;Connect with me: </h4>
 <div align="center">
   <a href="mailto:radhikadeshpande1010@gmail.com">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/gmail.png" height="43" width="46" />
@@ -57,5 +56,7 @@ Proficient in business analysis, data analysis, data visualization, and reportin
   <a href="https://www.facebook.com/radhika.deshpande1">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/facebook.png" height="43" width="46" />
   </a>
-
 </div>
+
+<h2 align="left"> 📊 My Github Stats</h2>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=radhikadeshpande1010&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
