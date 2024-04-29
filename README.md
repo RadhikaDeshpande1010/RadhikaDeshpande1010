@@ -43,15 +43,19 @@ Proficient in business analysis, data analysis, data visualization, and reportin
 <h4 align="center">🔗 &nbsp;Connect with me:</h4>
 <div align="center">
   <a href="mailto:radhika.deshpande@gmail.com">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Gmail.png" height="33" width="60" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/gmail.png" height="43" width="46" />
   </a>
+  
   <a href="https://www.linkedin.com/in/radhikadeshpande1010">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Linkedin.png" height="33" width="60" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/linkedin.png" height="43" width="46" />
   </a>
-   <a href="https://www.facebook.com/radhika.deshpande1">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Facebook-Logo.jpg" height="33" width="60" />
-  </a>
+
   <a href="https://www.instagram.com/thatshringargirl?igsh=cnprZm95Z2R1Z2Vt">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Instagram.jpeg" height="33" width="60" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/social.png" height="43" width="46" />
   </a>
+  
+  <a href="https://www.facebook.com/radhika.deshpande1">
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/facebook.png" height="43" width="46" />
+  </a>
+
 </div>
