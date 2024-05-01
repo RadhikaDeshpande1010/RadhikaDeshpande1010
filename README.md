@@ -20,6 +20,16 @@ Proficient in business analysis, data analysis, data visualization, and reportin
 <h2 align="left"> ⚙️ Tech Stach </h2>
 
 <h4 align="left"> 🥇&nbsp;Highlights of Core Competencies&nbsp;🥇 </h4>
+<div align="left">
+🔹 <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Power%20BI%20certificate%20logo.png" height="30%" width="30%" />
+  </a>
+  <br>
+🔹 <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Oracle%20certificate%20logo2.png" height="26%" width="26%" />
+  </a>
+  <br>
+</div> 
 
 <h4 align="left"> 🛠️&nbsp;Languages and Tools&nbsp;🛠️ </h4>
 
