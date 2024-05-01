@@ -1,6 +1,6 @@
 <h2 align="center"><i>Hi There, I'm Radhika Deshpande <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></i></h2>
 
-<h2 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Welcome_Banner_1.gif"></h2>
+<h2 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Welcome_Banner_2.gif" height="200" width="1000"></h2>
 
 <p align="left">Dynamic, high-caliber Data Analyst professional from India.  
 Proficient in business analysis, data analysis, data visualization, and reporting with keen eye for detail and a passion for solving business challenges through data-driven solutions. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. 
