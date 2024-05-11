@@ -19,7 +19,7 @@ Proficient in business analysis, data analysis, data visualization, and reportin
 
 <h2 align="left"> ⚙️ Tech Stach </h2>
 
-<h4 align="left"> 🥇&nbsp;Highlights of Core Competencies&nbsp;🥇 </h4>
+<h4 align="left"> 🥇 Highlights of Core Competencies</h4>
 <div align="left">
 🔹 <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Power%20BI%20certificate%20logo.png" height="30%" width="30%" />
@@ -31,7 +31,7 @@ Proficient in business analysis, data analysis, data visualization, and reportin
   <br>
 </div> 
 
-<h4 align="left"> 🛠️&nbsp;Languages and Tools&nbsp;🛠️ </h4>
+<h4 align="left"> 🛠️ Languages and Tools</h4>
 
 <div align="center">
   <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/power_bi.png" height="50" width="50">
@@ -49,7 +49,7 @@ Proficient in business analysis, data analysis, data visualization, and reportin
   <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/BA.png" height="50" width="50">
 </div>
 
-<h4 align="left"> ♻️&nbsp;Connect with me: </h4>
+<h4 align="left"> ♻️ Connect with me</h4>
 <div align="center">
   <a href="mailto:radhikadeshpande1010@gmail.com">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/gmail.png" height="43" width="46" />
