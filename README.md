@@ -68,5 +68,5 @@ Proficient in business analysis, data analysis, data visualization, and reportin
   </a>
 </div>
 
-<h2 align="left"> 📊 My Github Stats</h2>
+<h4 align="left"> 📊 My Github Stats</h4>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=radhikadeshpande1010&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
