@@ -5,7 +5,7 @@
 <p>
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/India.png" width="20" height="15" alt="India Icon" />, with expertise in data analysis and data modeling. On my GitHub, you'll find a portfolio of my projects and professional collaborations, showcasing my skills in various domains. Explore and discover my work!</span>.
 </p>
-<h3>⚙️ My Tech Toolbox</h3>
+<h2>⚙️ My Tech Toolbox</h2>
 <p>
     <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python-Logo1.png" width="52" style="max-height: 45px;" />
     <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="51" style="max-height: 45px;" />
