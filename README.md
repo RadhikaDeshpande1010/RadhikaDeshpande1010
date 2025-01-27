@@ -3,7 +3,7 @@
 <h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/GITHUB%20Banner.gif" height="480" width="1200"></h3>
 
 <p>
-    Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio features a range of projects and collaborations, highlighting my expertise in data analysis and modeling across various domains. Explore and discover my work!</span>.
+    Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
 <h2>⚙️ My Tech Toolbox</h2>
 <p>
