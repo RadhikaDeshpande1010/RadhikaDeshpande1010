@@ -7,10 +7,10 @@
 </p>
 <h2>⚙️ My Tech Toolbox</h2>
 <p>
-    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python-Logo1.png" width="52" style="max-height: 45px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="51" style="max-height: 45px;" />
-    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/pandas-icon1.PNG" width="62" style="max-height: 45px;" />
-    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="52" style="max-height: 45px;" />
+    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python-Logo1.png" width="52" style="max-height: 47px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="51" style="max-height: 47px;" />
+    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/pandas-icon1.PNG" width="65" style="max-height: 47px;" />
+    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="52" style="max-height: 47px;" />
 </p>
 
 <h4 align="left"> 🥇 Certifications </h4>
