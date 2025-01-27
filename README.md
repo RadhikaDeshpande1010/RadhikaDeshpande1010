@@ -13,15 +13,7 @@
     <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="52" style="max-height: 45px;" />
 </p>
 
-<br/>
-<div align="center"> 
-⚡  Fun fact: I :heart: :dog:s and I paint:paintbrush: my dreams on the canvas :wink: <br>
-💬  Ask me anything, I will be more than happy to help :grinning: <br>
-</div>
-
-<h2 align="left"> ⚙️ Tech Stach </h2>
-
-<h4 align="left"> 🥇 Highlights of Core Competencies</h4>
+<h4 align="left"> 🥇 Certifications </h4>
 <div align="left">
 🔹 <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Power%20BI%20certificate%20logo.png" height="30%" width="30%" />
