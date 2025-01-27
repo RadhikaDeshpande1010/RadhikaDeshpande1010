@@ -1,15 +1,17 @@
-<h2 align="center"><i>Hi There, I'm Radhika Deshpande <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></i></h2>
+<h2>Hey, good to see you! <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/GITHUB%20Smile.gif" height="25" width="25"></sub></h2>
 
-<h2 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Banner.gif" height="270" width="1000"></h2>
+<h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/GITHUB%20Banner.gif" height="480" width="1200"></h3>
 
-<p align="left">Dynamic, high-caliber Data Analyst professional from India.  
-Proficient in business analysis, data analysis, data visualization, and reporting with keen eye for detail and a passion for solving business challenges through data-driven solutions. I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares. 
-
-<hr4> <i> Few of my notable achievements: </i> </h4>  
-
-❇ Barclays Recognition Award <br/>
-❇ Barclays “Service” Value <br/>
-❇ Barclays “Excellence” & “Drive” & “Challenge” Value <br/> </p>
+<p>
+    Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/India.png" width="20" height="15" alt="India Icon" />. I'm a dedicated developer based in [Your Location], with expertise in data analysis and data modeling. On my GitHub, you'll find a portfolio of my projects and professional collaborations. Explore and discover my work!</span>.
+</p>
+<h3>⚙️ My Tech Toolbox</h3>
+<p>
+    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python-Logo1.png" width="52" style="max-height: 45px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="51" style="max-height: 45px;" />
+    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/pandas-icon1.PNG" width="62" style="max-height: 45px;" />
+    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="52" style="max-height: 45px;" />
+</p>
 
 <br/>
 <div align="center"> 
