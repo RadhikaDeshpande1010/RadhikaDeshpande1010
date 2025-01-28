@@ -17,7 +17,7 @@
     
 </p>
 
-<h4 align="left"> 🥇 Certifications </h4>
+<h4 align="left"> 📜 Certifications </h4>
 <div align="left">
 :black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate.png" width="26%";" />
