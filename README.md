@@ -7,10 +7,13 @@
 </p>
 <h2>⚙️ My Tech Toolbox</h2>
 <p>
-    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python-Logo1.png" width="52" style="max-height: 47px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="51" style="max-height: 47px;" />
-    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/pandas-icon1.PNG" width="65" style="max-height: 47px;" />
-    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="52" style="max-height: 47px;" />
+    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="74" style="max-height: 47px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="61" style="max-height: 47px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo.PNG" width="76" style="max-height: 47px;" />
+    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="62" style="max-height: 47px;" />
+    <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/databrick_logo.PNG" width="60" style="max-height: 47px;" />
+    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/pandas-icon1.PNG" width="76" style="max-height: 47px;" />
+    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin_Logo.PNG" width="76" style="max-height: 47px;" />
 </p>
 
 <h4 align="left"> 🥇 Certifications </h4>
@@ -25,40 +28,22 @@
   <br>
 </div> 
 
-<h4 align="left"> 🛠️ Languages and Tools</h4>
-
-<div align="center">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/power_bi.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL%20icon-modified.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Excel1-modified.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Microsoft.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/aws.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Salesforce.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Hadoop.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Ab-Initio.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/ETL-modified.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/MongoDB-modified.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/ChatGpt.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Chatbot.png" height="50" width="50">
-  <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/BA.png" height="50" width="50">
-</div>
-
 <h4 align="left"> ♻️ Connect with me</h4>
 <div align="center">
   <a href="mailto:radhikadeshpande1010@gmail.com">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/gmail.png" height="43" width="46" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/gmail.png" height="33" width="36" />
   </a>
   
   <a href="https://www.linkedin.com/in/radhikadeshpande1010">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/linkedin.png" height="43" width="46" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/linkedin.png" height="33" width="36" />
   </a>
 
   <a href="https://www.instagram.com/thatshringargirl?igsh=cnprZm95Z2R1Z2Vt">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/social.png" height="43" width="46" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/social.png" height="33" width="36" />
   </a>
   
   <a href="https://www.facebook.com/radhika.deshpande1">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/facebook.png" height="43" width="46" />
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/facebook.png" height="33" width="36" />
   </a>
 </div>
 
