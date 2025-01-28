@@ -17,7 +17,12 @@
     
 </p>
 
-<h4 align="left"> 📜 Certifications </h4>
+<h4>
+    <div style="display: flex; align-items: center;">
+      <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Certificate.png" alt="Icon" style="width: 15px; height: 15px; margin-right: 5px; margin-bottom: 2px;" />
+      <span>Certifications</span>
+    </div> 
+</h4>
 <div align="left">
 :black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
     <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate.png" width="26%";" />
