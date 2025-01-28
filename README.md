@@ -1,19 +1,20 @@
 <h2>Hey, good to see you! <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Smile.gif" height="25" width="25"></sub></h2>
 
-<h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" height="480" width="1200"></h3>
+<h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" height="480" width="1000"></h3>
 
 <p>
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
 <h2>⚙️ My Tech Toolbox</h2>
 <p>
-    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="74" style="max-height: 47px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/sql-png-md1.PNG" width="61" style="max-height: 47px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo.PNG" width="76" style="max-height: 47px;" />
-    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark.jpg" width="62" style="max-height: 47px;" />
-    <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/databrick_logo.PNG" width="60" style="max-height: 47px;" />
-    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/pandas-icon1.PNG" width="76" style="max-height: 47px;" />
-    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin_Logo.PNG" width="76" style="max-height: 47px;" />
+    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="65" style="max-height: 47px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo1.PNG" width="64" style="max-height: 47px;" />
+    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark_Logo1.PNG" width="65" style="max-height: 47px;" />
+    <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Databricks_Logo1.PNG" width="70" style="max-height: 47px;" />
+    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Pandas_Logo.PNG" width="75" style="max-height: 47px;" />
+    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin-Logo2.PNG" width="71" style="max-height: 47px;" /> 
+    <img alt="PowerBi" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Logo1.PNG" width="71" style="max-height: 47px;" />
+    
 </p>
 
 <h4 align="left"> 🥇 Certifications </h4>
