@@ -11,7 +11,7 @@
     <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo1.PNG" width="64" style="max-height: 47px;" />
     <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark_Logo1.PNG" width="65" style="max-height: 47px;" />
     <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Databricks_Logo1.PNG" width="70" style="max-height: 47px;" />
-    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Pandas_Logo.PNG" width="75" style="max-height: 47px;" />
+    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Pandas_Logo.PNG" width="74" style="max-height: 47px;" />
     <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin-Logo2.PNG" width="71" style="max-height: 47px;" /> 
     <img alt="PowerBi" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Logo1.PNG" width="71" style="max-height: 47px;" />
     
