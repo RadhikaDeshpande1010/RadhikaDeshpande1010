@@ -29,13 +29,15 @@
     </div>
 </h4>
 <div align="left">
-:black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate.png" width="29%";" />
-  </a>
+    <a>
+        :black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
+        <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate1.png" width="29%";" />
+    </a>
   <br>
-:black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/OracleAssociate_Certificate.png" width="29%";" />
-  </a>
+    <a>
+        :black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
+        <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/OracleAssociate_Certificate2.PNG" width="29%";" />
+    </a>
   <br>
 </div> 
 
