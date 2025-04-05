@@ -113,3 +113,7 @@
 
 <p align="center">
   <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Thank%20You-Photoroom.png" alt="End" width="20%" style="max-width:700px; height:auto;">
+</p>
+<p>
+    Thank you for visiting my space. Let’s make the tech world greener — by writing better code and planting more trees, however and whenever we can. <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Plant_Logo.png" alt="Icon" alt="Icon" height="21" width="21" valign="middle"> 
+</p>
