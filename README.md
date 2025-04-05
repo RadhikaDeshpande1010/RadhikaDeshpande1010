@@ -1,4 +1,4 @@
-<h2>It's great to connect with you in this space.<sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Greetings.png" height="37" width="37"></sub></h2>
+<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Flower.png" height="30" width="30"></sub></h2>
 
 <h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" height="390"></h3>
 
@@ -6,14 +6,16 @@
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
 
-This is the place where I **open source stuff and explore the limits!**  
-◾💬 Passionate about Oracle Development, Python, Data Analysis, and always learning new things — got something cool? Hit me up!
+<h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="27" width="27" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
+<p>
+◾ 💬 Passionate about SQL, Python, Data Analysis, and always exploring new tech — got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
-◾🐾 Fun fact: I ❤️ dogs!
+◾ 🐾 Fun fact: I ❤️ dogs! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
+</p>
 
 <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 49px; height: 49px; margin-right: 5px;">
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 33px; height: 33px; margin-right: 5px;">
           <span style="margin: 0;">My Tech Toolbox</span>
     </div>
 </h2>
