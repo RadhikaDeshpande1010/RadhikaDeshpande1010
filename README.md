@@ -1,6 +1,6 @@
 <h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Smile.gif" height="30" width="30"></sub></h2>
 
-<h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" height="450"></h3>
+<h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" height="370"></h3>
 
 <p>
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
