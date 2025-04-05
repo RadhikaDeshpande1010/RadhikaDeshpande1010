@@ -1,4 +1,4 @@
-<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Flower.png" height="30" width="30"></sub></h2>
+<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Flower.png" height="27" width="27"></sub></h2>
 
 <h3 align="center"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" height="390"></h3>
 
@@ -6,7 +6,7 @@
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
 
-<h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="27" width="27" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
+<h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="24" width="24" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
 <p>
 ◾ 💬 Passionate about SQL, Python, Data Analysis, and always exploring new tech — got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
@@ -15,7 +15,7 @@
 
 <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 33px; height: 33px; margin-right: 5px;">
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 51px; height: 51px; valign="middle">
           <span style="margin: 0;">My Tech Toolbox</span>
     </div>
 </h2>
@@ -37,7 +37,7 @@
 
 <h4>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Certificate_Logo.png" alt="Icon" style="width: 23px; height: 23px; margin-right: 5px;">
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Certificate_Logo.png" alt="Icon" height="22" width="22" valign="middle"> 
           <span style="margin: 0;">Certification</span>
     </div>
 </h4>
@@ -56,7 +56,7 @@
 
 <h4>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Connect_Logo.png" alt="Icon" style="width: 25px; height: 25px; margin-right: 5px;">
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Connect_Logo.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle"> 
           <span style="margin: 0;">Connect with me</span>
     </div>
 </h4>
@@ -80,7 +80,7 @@
 
 <h4 style="margin: 0;">
   <div style="display: flex; align-items: center;">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Stats.png?raw=true" alt="Icon" style="width: 25px; height: 25px; margin-right: 7px;">
+    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Stats.png?raw=true" alt="Icon" alt="Icon" height="24" width="24" valign="middle"> 
     <span>My GitHub Stats</span>
   </div>
 </h4>
