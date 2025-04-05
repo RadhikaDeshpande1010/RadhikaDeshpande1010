@@ -12,7 +12,7 @@
 <p>
 ◾ 💬 Passionate about Oracle Development, Python Data Analysis, Data Modeling and always exploring new tech — got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
-◾ 🐾 Fun fact: I ❤️ dogs! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
+◾ 🐾 Big fan of paws, wagging tails, and dog kisses! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
 </p>
 
 <h2>
