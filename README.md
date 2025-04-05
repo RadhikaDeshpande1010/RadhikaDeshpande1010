@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    🙏 नमस्ते (Namaste)! Welcome to my page! <br>
+    <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Namaste%20Logo.png" height="auto" width="23" valign="middle"> नमस्ते (Namaste)! Welcome to my page! <br>
     I'm Radhika, a passionate Data Analyst from 
     <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" style="vertical-align: text-top;">.
     <br>
@@ -24,11 +24,11 @@
 
 <h4> A Little About Me: </h4>
 <p>
-📊 In love with all things data — from modeling to analysis. Always learning, always exploring new tools and tech! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="22" width="22" valign="middle"> 
+◾ 📊 In love with all things data — from modeling to analysis. Always learning, always exploring new tools and tech! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="22" width="22" valign="middle"> 
 <br>
-💬 Curious by nature, driven by insight. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" valign="middle"> 
+◾ 💬 Curious by nature, driven by insight. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" valign="middle"> 
 <br>
-🐾 Big fan of paws and cozy painting sessions with a cup of chai — my kind of peace! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="22" width="22" valign="middle"> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Chai.png" height="22" width="22" valign="middle">
+◾ 🐾 Big fan of paws and cozy painting sessions with a cup of chai — my kind of peace! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="22" width="22" valign="middle"> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Chai.png" height="22" width="22" valign="middle">
 </p>
 
 <b> Fact: </b> <i> Fueled by </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Coding.png" height="21" width="21" valign="middle"> <i> code, </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/DogTail-Photoroom%20(1).png" height="21" width="21" valign="middle"><i> puppy cuddles, </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Paint.png" height="21" width="21" valign="middle"> <i> painting sessions, and </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Emoji.png" height="18" width="18" valign="middle"> <i> emojis — life’s all about balance! </i>
