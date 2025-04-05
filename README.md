@@ -15,7 +15,7 @@
 ◾ 🐾 Big fan of paws, wagging tails, and dog kisses! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
 </p>
 
-<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="39" valign="middle"> <i> Writing code by day, getting tail wags by night. </i> 
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="39" valign="middle"> <i> Fueled by code and puppy cuddles — life’s all about balance! </i> 
 
 <h2>
     <div style="display: flex; align-items: center;">
