@@ -25,8 +25,8 @@
 
 <h2>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 51px; height: 51px; valign="middle">
-          <span style="margin: 0;">My Tech Toolbox</span>
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" valign="middle" width="6%" >
+          <span style="margin: 0; vertical-align: middle;">My Tech Toolbox</span>
     </div>
   <br>
 </h2>
@@ -96,6 +96,8 @@
   </div>
 </h4>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=radhikadeshpande1010&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  
+<h2></h2>
 
 <p align="center">
   <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Thank%20You-Photoroom.png" alt="End" width="20%" style="max-width:700px; height:auto;">
