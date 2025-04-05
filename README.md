@@ -23,7 +23,7 @@
 
 <h2></h2>
 
-<h2>
+<h2 align="center">
     <div style="display: flex; align-items: center;">
           <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" valign="middle" width="6%" >
           <span style="margin: 0; vertical-align: middle;">My Tech Toolbox</span>
