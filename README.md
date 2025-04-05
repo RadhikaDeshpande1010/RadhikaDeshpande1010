@@ -5,27 +5,28 @@
 </p>
 
 <p>
-    Welcome to my page! <br> Hi there! I'm Radhika, a passionate Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. 
-      <br>
-This is where I open source bold ideas and challenge what’s possible in tech!
-      <br>
-      <br>
-    My GitHub portfolio highlights a diverse collection of projects and collaborations—each one highlighting my expertise in data analysis, modeling, and visualization across various domains.
+    नमस्ते (Namaste)! Welcome to my page! 
+    <br>
+    I'm Radhika, a passionate Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. 
+    <br>
+    This is where I open source bold ideas and challenge what’s possible in tech!
+    <br>
+    My [GitHub Portfolio](https://github.com/RadhikaDeshpande1010) highlights a diverse collection of projects and collaborations — each one highlighting my expertise in data analysis, modeling, and visualization across various domains.
 Feel free to explore and see how I leverage data to drive impactful results!</span>
 </p>
 
-
-
 <h2></h2>
 
-<h4><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="26" width="26" valign="middle">  A Little About Me: </h4>
+<h4> A Little About Me: </h4>
 <p>
-◾ 💬 In love with all things data — from modeling to analysis. Always curious, always learning. I thrive on exploring new tech and fresh ideas. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
+💬 In love with all things data — from modeling to analysis. Always learning, always exploring new tools and tech! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="22" width="22" valign="middle"> 
 <br>
-◾ 🐾 Big fan of paws, wagging tails, and dog kisses! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
+💡 Curious by nature, driven by insight. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" valign="middle"> 
+<br>
+🐾 Big fan of paws, wagging tails, and dog kisses and cozy painting sessions with a cup of chai! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="22" width="22" valign="middle">
 </p>
 
-<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="30" valign="middle"> <b> Fact: </b> <i> Fueled by code and puppy cuddles — life’s all about balance! </i> 
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="30" valign="middle"> <b> Fact: </b> <i> Fueled by code, puppy cuddles and painting sessions  — life’s all about balance! </i> 
 
 <h2></h2>
 
