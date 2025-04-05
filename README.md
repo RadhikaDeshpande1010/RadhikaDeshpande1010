@@ -19,7 +19,7 @@
     <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Databricks_Logo1.PNG" width="67" style="max-height: 49px;" />
     <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Pandas_Logo.PNG" width="70" style="max-height: 47px;" />
     <img alt="Numpy" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Numpy_Logo.png" width="60" style="max-height: 49px;" />
-    <img alt="Matpotlib" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Matpotlib%20Logo.png" width="61" style="max-height: 49px;" />
+    <img alt="Matpotlib" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Matpotlib%20Logo.png" width="60" style="max-height: 47px;" />
     <img alt="Seaborn" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Seaborn-Logo.png" width="62" style="max-height: 49px;" />
     <img alt="Plotly" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Plotly-logo.png" width="65" style="max-height: 49px;" />
     <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin-Logo2.PNG" width="67" style="max-height: 49px;" /> 
