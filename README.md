@@ -5,6 +5,12 @@
 <p>
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
+
+This is the place where I **open source stuff and explore the limits!**  
+◾💬 Passionate about Oracle Development, Python, Data Analysis, and always learning new things — got something cool? Hit me up!
+<br>
+◾🐾 Fun fact: I ❤️ dogs!
+
 <h2>
     <div style="display: flex; align-items: center;">
           <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 49px; height: 49px; margin-right: 5px;">
@@ -35,12 +41,12 @@
 </h4>
 <div align="left">
     <a>
-        :black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
+        ◾ <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
         <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate1.png" width="27%";" />
     </a>
   <br>
     <a>
-        :black_small_square: <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
+        ◾ <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
         <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/OracleAssociate_Certificate2.PNG" width="27%";" />
     </a>
   <br>
