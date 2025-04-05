@@ -8,7 +8,7 @@
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
 
-<h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="24" width="24" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
+<h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="26" width="26" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
 <p>
 ◾ 💬 Passionate about Oracle Development, Python, Data Analysis, and Data Modeling — driven by curiosity and always exploring new tech. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
