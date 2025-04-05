@@ -8,14 +8,20 @@
     Welcome to my page! <br>I'm Radhika, Data Analyst from <span style="vertical-align: text-top;"><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" />. My GitHub portfolio highlights a diverse collection of projects and collaborations that demonstrate my proficiency in data analysis and modeling across various domains. Feel free to explore my projects and see firsthand how I leverage data to drive impactful results!</span>
 </p>
 
-<h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="26" width="26" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="26" width="26" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech!
+
+<h2></h2>
+
+<h4> A Little About Me: </h4>
 <p>
-◾ 💬 Passionate about Oracle Development, Python, Data Analysis, and Data Modeling — driven by curiosity and always exploring new tech. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
+◾ 💬 In love with all things data — from modeling to analysis — always exploring and embracing new tech. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
 ◾ 🐾 Big fan of paws, wagging tails, and dog kisses! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
 </p>
 
-<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="30" valign="middle"> <i> Fueled by code and puppy cuddles — life’s all about balance! </i> 
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="30" valign="middle"> <b> Fact: </b> <i> Fueled by code and puppy cuddles — life’s all about balance! </i> 
+
+<h2></h2>
 
 <h2>
     <div style="display: flex; align-items: center;">
