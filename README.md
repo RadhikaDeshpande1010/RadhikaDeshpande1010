@@ -13,12 +13,12 @@
 </h2>
 <p>
     <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="65" style="max-height: 47px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo1.PNG" width="64" style="max-height: 47px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Oracle_PLSQL_Logo.png" width="65" style="max-height: 49px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo1.PNG" width="63" style="max-height: 47px;" />
+    <img alt="PLSQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Oracle_PLSQL_Logo.png" width="65" style="max-height: 49px;" />
     <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark_Logo1.PNG" width="63" style="max-height: 47px;" />
     <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Databricks_Logo1.PNG" width="69" style="max-height: 47px;" />
     <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Pandas_Logo.PNG" width="73" style="max-height: 47px;" />
-    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin-Logo2.PNG" width="69" style="max-height: 47px;" /> 
+    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin-Logo2.PNG" width="68" style="max-height: 47px;" /> 
     <img alt="PowerBi" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Logo1.PNG" width="69" style="max-height: 47px;" />
     <img alt="PowerBi" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Tableau%20Logo.png" width="68" style="max-height: 47px;" />
 </p>
