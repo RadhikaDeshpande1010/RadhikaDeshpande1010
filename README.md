@@ -10,7 +10,7 @@
 
 <h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="24" width="24" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
 <p>
-◾ 💬 Passionate about SQL, Python, Data Analysis, and always exploring new tech — got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
+◾ 💬 Passionate about Oracle Development, Python, Data Analysis, and always exploring new tech — got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
 ◾ 🐾 Fun fact: I ❤️ dogs! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
 </p>
