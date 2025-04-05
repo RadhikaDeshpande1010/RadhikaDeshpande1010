@@ -12,7 +12,7 @@
     </div>
 </h2>
 <p>
-    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="63" style="max-height: 47px;" />
+    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="62" style="max-height: 47px;" />
     <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo1.PNG" width="61" style="max-height: 49px;" />
     <img alt="PLSQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Oracle_PLSQL_Logo.png" width="63" style="max-height: 47px;" />
     <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark_Logo1.PNG" width="62" style="max-height: 47px;" />
