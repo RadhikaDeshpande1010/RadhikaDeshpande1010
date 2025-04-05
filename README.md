@@ -28,10 +28,10 @@
 <br>
 💬 Curious by nature, driven by insight. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" valign="middle"> 
 <br>
-🐾 Big fan of paws and cozy painting sessions with a cup of chai — my kind of peace! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="22" width="22" valign="middle">
+🐾 Big fan of paws and cozy painting sessions with a cup of chai — my kind of peace! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="22" width="22" valign="middle"> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Chai.png" height="22" width="22" valign="middle">
 </p>
 
-<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="30" valign="middle"> <b> Fact: </b> <i> Fueled by code, puppy cuddles and painting sessions  — life’s all about balance! </i> 
+<b> Fact: </b> <i> Fueled by </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Coding.png" height="21" width="21" valign="middle"> <i> code, </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/DogTail-Photoroom%20(1).png" height="21" width="21" valign="middle"><i> puppy cuddles, </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Paint.png" height="21" width="21" valign="middle"> <i> painting sessions, and </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Emoji.png" height="18" width="18" valign="middle"> <i> emojis — life’s all about balance! </i>
 
 <h2></h2>
 
