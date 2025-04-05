@@ -10,10 +10,13 @@
 
 <h4> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="24" width="24" valign="middle"> This is where I open source bold ideas and challenge what’s possible in tech! </h4>
 <p>
-◾ 💬 Passionate about Oracle Development, Python Data Analysis, Data Modeling and always exploring new tech — got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
+◾ 💬 Passionate about Oracle Development, Python, Data Analysis, and Data Modeling — driven by curiosity and always exploring new tech. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" style="vertical-align: middle; margin-right: 6px;">
 <br>
 ◾ 🐾 Big fan of paws, wagging tails, and dog kisses! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="20" width="20" valign="middle">
 </p>
+
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Fact.png" alt="Fact" width="40" valign="middle"> <i> Writing code by day, getting tail wags by night. </i> 
+---
 
 <h2>
     <div style="display: flex; align-items: center;">
