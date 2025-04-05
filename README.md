@@ -28,6 +28,7 @@
           <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" style="width: 51px; height: 51px; valign="middle">
           <span style="margin: 0;">My Tech Toolbox</span>
     </div>
+  <br>
 </h2>
 <p>
     <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="62" style="max-height: 47px;" />
