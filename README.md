@@ -1,4 +1,4 @@
-<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Flower.png" height="27" width="27"></sub></h2>
+<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Flower.png" height="25" width="25"></sub></h2>
 
 <p align="center">
   <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" alt="Banner" width="100%" style="max-width:900px; height:auto;">
