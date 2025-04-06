@@ -5,7 +5,7 @@
 </p>
 
 <p>
-    <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Namaste%20Icon.png" height="auto" width="23" valign="middle" /><i>नमस्ते (Namaste)</i>! Welcome to my page! <br>
+    <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Namaste%20Icon.png" height="auto" width="17" valign="middle" /><i>नमस्ते (Namaste)</i>! Welcome to my page! <br>
     I'm Radhika, a passionate Data Analyst from 
     <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" style="vertical-align: text-top;">.
     <br>
