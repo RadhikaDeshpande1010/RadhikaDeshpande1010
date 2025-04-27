@@ -66,7 +66,7 @@
 </h4>
 <div align="left">
     <a>
-        ◾ <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.PNG">
+        ◾ <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.png">
         <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate1.png" width="27%";" />
     </a>
   <br>
