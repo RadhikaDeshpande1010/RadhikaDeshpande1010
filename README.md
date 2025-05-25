@@ -65,21 +65,24 @@
     </div>
 </h4>
 <div align="left">
-    <a>
-        ◾ <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.png">
-        <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Certificate1.png" width="27%";" />
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert-logo.png" height="18" width="18" valign="middle"/>
+    <!-- Power BI certification -->
+    <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.png">
+      <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert_Microsoft_PowerBI_Associate.png?raw=true" height="35%" width="33%" valign="middle" />
     </a>
   <br>
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert-logo.png" height="18" width="18" valign="middle" />
+    <!-- Oracle SQL certification -->
     <a>
-        ◾ <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
-        <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/OracleAssociate_Certificate2.PNG" width="27%";" />
+        <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
+        <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert_Oracle_SQL_Associate.png" height="20%" width="22%"; valign="middle" />
     </a>
   <br>
 </div> 
 
 <h4>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Connect_Logo.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Connect_Logo.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle" /> 
           <span style="margin: 0;">Connect with me</span>
     </div>
 </h4>
