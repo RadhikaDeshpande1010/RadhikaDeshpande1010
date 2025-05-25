@@ -1,13 +1,13 @@
-<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Flower.png" height="25" width="25"></sub></h2>
+<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Flower.png" height="25" width="25"></sub></h2>
 
 <p align="center">
   <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/GITHUB%20Banner%20Snap.gif" alt="Banner" width="100%" style="max-width:900px; height:auto;">
 </p>
 
 <p>
-    <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Namaste%20Icon.png" height="auto" width="19" valign="middle" /><i>नमस्ते (Namaste)</i>! Welcome to my page! <br>
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Namaste%20Icon.png" height="auto" width="19" valign="middle" /><i>नमस्ते (Namaste)</i>! Welcome to my page! <br>
     I'm Radhika, a passionate Data Analyst from 
-    <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/India.png" width="20" height="15" alt="India Icon" style="vertical-align: text-top;">.
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/India.png" width="20" height="15" alt="India Icon" style="vertical-align: text-top;">.
     <br>
     This is where I open source bold ideas and challenge what’s possible in tech!
 </p>
@@ -24,20 +24,18 @@
 
 <h4> A Little About Me: </h4>
 <p>
-◾ 📊 In love with all things data — from modeling to analysis. Always learning, always exploring new tools and tech! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/innovation.png" height="22" width="22" valign="middle"> 
+◾ 📊 In love with all things data — from modeling to analysis. Always learning, always exploring new tools and tech! <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/innovation.png" height="22" width="22" valign="middle"> 
 <br>
-◾ 💬 Curious by nature, driven by insight. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/connect.png" height="22" width="22" valign="middle"> 
+◾ 💬 Curious by nature, driven by insight. Got something exciting? Let’s connect! <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/connect.png" height="22" width="22" valign="middle"> 
 <br>
-◾ 🐾 Big fan of paws and cozy painting sessions with a cup of chai — my kind of peace! <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Dog.png" height="22" width="22" valign="middle"> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Chai.png" height="22" width="22" valign="middle">
+◾ 🐾 Big fan of paws and cozy painting sessions with a cup of chai — my kind of peace! <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Dog.png" height="22" width="22" valign="middle"> <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Chai.png" height="22" width="22" valign="middle">
 </p>
 
-<b> Fact: </b> <i> Fueled by </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Coding.png" height="21" width="21" valign="middle"> <i> code, </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/DogTail-Photoroom%20(1).png" height="21" width="21" valign="middle"><i> puppy cuddles, </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Paint.png" height="21" width="21" valign="middle"> <i> painting sessions, and </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Emoji.png" height="18" width="18" valign="middle"> <i> emojis — life’s all about balance! </i> <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Balance.png" height="auto" width="21" valign="middle">
-
-<h2></h2>
+<b> Fact: </b> <i> Fueled by </i> <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Coding.png" height="21" width="21" valign="middle"> <i> code, </i> <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/DogTail.png" height="21" width="21" valign="middle"><i> puppy cuddles, </i> <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Paint.png" height="21" width="21" valign="middle"> <i> painting sessions, and </i> <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Emoji.png" height="18" width="18" valign="middle"> <i> emojis — life’s all about balance! </i> <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Balance.png" height="auto" width="21" valign="middle">
 
 <h2 align="center">
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/TechTools.png" alt="Icon" valign="middle" width="6%" >
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/TechTools.png" alt="Icon" valign="middle" width="6%" >
           <span style="margin: 0; vertical-align: middle;">My Tech Toolbox</span>
     </div>
   <br>
@@ -60,18 +58,18 @@
 
 <h4>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Certificate_Logo.png" alt="Icon" height="22" width="22" valign="middle"> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Certificate_Logo.png" alt="Icon" height="22" width="22" valign="middle"> 
           <span style="margin: 0;">Certification</span>
     </div>
 </h4>
 <div align="left">
-    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert-logo.png" height="18" width="18" valign="middle"/>
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert-logo.png" height="15" width="15" valign="middle"/>
     <!-- Power BI certification -->
     <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Power%20BI%20Data%20Analyst%20Associate.png">
       <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert_Microsoft_PowerBI_Associate.png?raw=true" height="35%" width="33%" valign="middle" />
     </a>
   <br>
-    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert-logo.png" height="18" width="18" valign="middle" />
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cert-icons/cert-logo.png" height="15" width="15" valign="middle" />
     <!-- Oracle SQL certification -->
     <a>
         <a href="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/Oracle%20Database%20SQL%20Certification%201Z0-071.jpg">
@@ -82,7 +80,7 @@
 
 <h4>
     <div style="display: flex; align-items: center;">
-          <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Connect_Logo.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle" /> 
+          <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Connect_Logo.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle" /> 
           <span style="margin: 0;">Connect with me</span>
     </div>
 </h4>
@@ -106,17 +104,15 @@
 
 <h4 style="margin: 0;">
   <div style="display: flex; align-items: center;">
-    <img src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Stats.png?raw=true" alt="Icon" alt="Icon" height="24" width="24" valign="middle"> 
+    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Stats.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle"> 
     <span>My GitHub Stats</span>
   </div>
 </h4>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=radhikadeshpande1010&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=radhikadeshpande1010&show_icons=true&theme=gotham" alt="radhikadeshpande" />
   
-<h2></h2>
-
 <p align="center">
-  <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Thank%20You-Photoroom.png" alt="End" width="20%" style="max-width:700px; height:auto;">
+  <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Thank%20You.png" alt="End" width="20%" style="max-width:700px; height:auto;">
 </p>
 <p>
-    Thank you for visiting my space. Let’s make the tech world greener — by writing better code and planting more trees, however and whenever we can. <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Plant_Logo.png" alt="Icon" alt="Icon" height="21" width="21" valign="middle"> 
+    Thank you for visiting my space. Let’s make the tech world greener — by writing better code and planting more trees, however and whenever we can. <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Plant_Logo.png" alt="Icon" alt="Icon" height="21" width="21" valign="middle"> 
 </p>
