@@ -43,19 +43,19 @@
   <br>
 </h2>
 <p>
-    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Python_Logo1.PNG" width="62" style="max-height: 47px;" />
-    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/SQL_Logo1.PNG" width="61" style="max-height: 49px;" />
-    <img alt="PLSQL" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Oracle_PLSQL_Logo.png" width="63" style="max-height: 47px;" />
-    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PySpark_Logo1.PNG" width="62" style="max-height: 47px;" />
-    <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Databricks_Logo1.PNG" width="67" style="max-height: 49px;" />
-    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Pandas_Logo1.PNG" width="70" style="max-height: 47px;" />
-    <img alt="Numpy" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Numpy_Logo1.png" width="60" style="max-height: 49px;" />
-    <img alt="Matpotlib" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Matpotlib%20Logo.png" width="60" style="max-height: 47px;" />
-    <img alt="Seaborn" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Seaborn-Logo.png" width="62" style="max-height: 49px;" />
-    <img alt="Plotly" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Plotly-logo.png" width="65" style="max-height: 49px;" />
-    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Erwin-Logo2.PNG" width="67" style="max-height: 49px;" /> 
-    <img alt="PowerBi" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/PowerBi_Logo1.PNG" width="67" style="max-height: 49px;" />
-    <img alt="Tableau" src="https://github.com/RadhikaDeshpande1010/skill-icon/blob/main/Tableau%20Logo.png" width="67" style="max-height: 49px;" />
+    <img alt="Python" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_Python.PNG" width="62" style="max-height: 47px;" />
+    <img alt="SQL" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_SQL.PNG" width="61" style="max-height: 49px;" />
+    <img alt="PLSQL" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_PLSQL.png" width="63" style="max-height: 47px;" />
+    <img alt="PySpark" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_PySpark.PNG" width="62" style="max-height: 47px;" />
+    <img alt="Databricks" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_Databricks.PNG" width="67" style="max-height: 49px;" />
+    <img alt="Pandas" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_Pandas.PNG" width="70" style="max-height: 47px;" />
+    <img alt="Numpy" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_Numpy.png" width="60" style="max-height: 49px;" />
+    <img alt="Matpotlib" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill_Matpotlib.png" width="60" style="max-height: 47px;" />
+    <img alt="Seaborn" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill-Seaborn.png" width="62" style="max-height: 49px;" />
+    <img alt="Plotly" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill-Plotly.png" width="65" style="max-height: 49px;" />
+    <img alt="Erwin" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill-Erwin.PNG" width="67" style="max-height: 49px;" /> 
+    <img alt="PowerBi" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill-PowerBi.PNG" width="67" style="max-height: 49px;" />
+    <img alt="Tableau" src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/skill-icon/skill-Tableau.png" width="67" style="max-height: 49px;" />
 </p>
 
 <h4>
