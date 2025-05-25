@@ -20,7 +20,7 @@
     Feel free to explore and see how I leverage data to drive impactful results!
 </p>
 
-<h2> A Little About Me: </h4>
+<h3> A Little About Me: </h3>
 <p>
 ◾ 📊 In love with all things data — from modeling to analysis. Always learning, always exploring new tools and tech! <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/innovation.png" height="22" width="22" valign="middle"> 
 <br>
