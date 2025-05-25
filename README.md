@@ -108,8 +108,11 @@
     <span>My GitHub Stats</span>
   </div>
 </h4>
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=radhikadeshpande1010&show_icons=true&theme=gotham" alt="radhikadeshpande" />
-  
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=RadhikaDeshpande1010&theme=radical" alt="radhikadeshpande streak stats" />
+</p>
+ 
 <p align="center">
   <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Thank%20You.png" alt="End" width="20%" style="max-width:700px; height:auto;">
 </p>
