@@ -100,16 +100,21 @@
   </a>
 </div>
 
-<h4 style="margin: 0;">
-  <div style="display: flex; align-items: center;">
-    <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Stats.png" alt="Icon" alt="Icon" height="24" width="24" valign="middle"> 
-    <span>My GitHub Stats</span>
-  </div>
+
+<h4>
+  <img src="https://raw.githubusercontent.com/RadhikaDeshpande1010/icon-library/main/my-readme-icons/Stats.png"
+       alt="Stats Icon"
+       width="24"
+       height="24" />
+  My GitHub Stats
 </h4>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com?user=RadhikaDeshpande1010&theme=radical" alt="radhikadeshpande streak stats" />
+  <img src="https://streak-stats.demolab.com?user=RadhikaDeshpande1010&theme=radical"
+       alt="Radhika Deshpande GitHub streak stats" />
 </p>
+
+
  
 <p align="center">
   <img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Thank%20You.png" alt="End" width="20%" style="max-width:700px; height:auto;">
