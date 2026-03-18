@@ -24,7 +24,7 @@
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Who.png.png" height="27" width="27"></sub> Who I Am </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/WHO_icon.png" height="30" width="30"></sub> Who I Am </h2>
 
 ```python
 # analytics_philosophy.py
@@ -50,7 +50,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/impression.png" height="29" width="29"></sub> At a Glance </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/glance.png" height="35" width="35"></sub>At a Glance </h2>
 
 <div align="center">
 
@@ -62,7 +62,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/tech1.png" height="25" width="25"></sub> Tech Stack & Toolbox </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/tech2.png" height="25" width="25"></sub> Tech Stack & Toolbox </h2>
 
 <details open>
 <summary><b>📊 Analytics & Engineering</b></summary>
@@ -130,7 +130,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Certificate_Logo.png" height="23" width="23"></sub> Certifications </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/certificate.png" height="27" width="27"></sub> Certifications </h2>
 
 <div align="center">
 
@@ -147,7 +147,7 @@ class RadhikaDeshpande:
 
 ---
 
-## 📂 Featured Projects
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/folder_structure.png" height="27" width="25"></sub> Featured Projects </h2>
 
 <div align="center">
 
@@ -168,7 +168,7 @@ class RadhikaDeshpande:
 
 ---
 
-## 📈 GitHub Statistics
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Stats.png" height="30" width="30"></sub> GitHub Statistics </h2>
 
 <div align="center">
 
@@ -188,7 +188,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/tech2.png" height="25" width="25"></sub> Currently Learning </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/learning_1.png" height="30" width="30"></sub> Currently Learning </h2>
 
 - 📡 **Machine Learning** — supervised & unsupervised algorithms, model evaluation
 - 🤖 **Generative AI** — LLMs, prompt engineering, AI-powered analytics
@@ -197,7 +197,7 @@ class RadhikaDeshpande:
 
 ---
 
-## 🤝 Let's Connect
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/star_connect_1.png" height="35" width="35"></sub> Let's Connect </h2>
 
 <div align="center">
 
