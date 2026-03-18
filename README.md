@@ -131,7 +131,7 @@ class RadhikaDeshpande:
 ---
 
 <h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/certificate.png" height="27" width="27"></sub> Certifications </h2>
-<img src="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/my_certifications.png" width="75%" height="60%" align="middle" alt="Radhika Deshpande Certifications"/>
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/my_certifications.png" width="75%" height="60%" align="middle" alt="Radhika Deshpande Certifications"/>
 
 ---
 
