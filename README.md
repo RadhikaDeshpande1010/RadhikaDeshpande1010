@@ -131,19 +131,7 @@ class RadhikaDeshpande:
 ---
 
 <h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/certificate.png" height="27" width="27"></sub> Certifications </h2>
-
-<div align="center">
-
-| Status | Certification | Issuer |
-|:-:|:--|:-:|
-| 🔄 **Pursuing** | Post Graduate Certificate in Data Science, Machine Learning & Generative AI | **IIT Roorkee** |
-| ✅ **Certified** | PCAP — Certified Associate in Python Programming | **Python Institute** |
-| ✅ **Certified** | PCEP™ — Certified Entry-Level Python Programmer | **Python Institute** |
-| ✅ **Certified** | Microsoft Certified: Power BI Data Analyst Associate | **Microsoft** |
-| ✅ **Certified** | Oracle Database SQL Certified Associate | **Oracle** |
-| ✅ **Certified** | Data Analysis with Python | **IBM** |
-
-</div>
+<img src="https://github.com/RadhikaDeshpande1010/Certifications/blob/main/my_certifications.png" width="70%" height="50%" align="middle" alt="Radhika Deshpande Certifications"/>
 
 ---
 
