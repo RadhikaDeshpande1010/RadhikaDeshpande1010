@@ -154,17 +154,9 @@ class RadhikaDeshpande:
 
 </div>
 
----
-
 <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Stats.png" height="30" width="30"></sub> GitHub Statistics </h2>
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RadhikaDeshpande1010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RadhikaDeshpande1010&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/><br/>
 
 <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=RadhikaDeshpande1010&theme=tokyonight&hide_border=true" alt="Streak Stats"/>
 
