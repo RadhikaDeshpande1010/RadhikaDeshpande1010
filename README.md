@@ -130,12 +130,12 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/certificate.png" height="27" width="27"></sub> Certifications </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/badge.png" height="25" width="25"></sub> Certifications </h2>
 <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/my_certifications.png" width="75%" height="60%" align="middle" alt="Radhika Deshpande Certifications"/>
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/folder_structure.png" height="27" width="25"></sub> Featured Projects </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/files.png" height="30" width="28"></sub> Featured Projects </h2>
 
 <div align="center">
 
@@ -154,7 +154,7 @@ class RadhikaDeshpande:
 
 </div>
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Stats.png" height="30" width="30"></sub> GitHub Statistics </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/statistics.png" height="24" width="24"></sub> GitHub Statistics </h2>
 
 <div align="center">
 
@@ -168,7 +168,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/learning_1.png" height="30" width="30"></sub> Currently Learning </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/learning.png" height="30" width="30"></sub> Currently Learning </h2>
 
 - 📡 **Machine Learning** — supervised & unsupervised algorithms, model evaluation
 - 🤖 **Generative AI** — LLMs, prompt engineering, AI-powered analytics
@@ -177,7 +177,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/star_connect_1.png" height="35" width="35"></sub> Let's Connect </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/connect.png" height="32" width="32"></sub> Let's Connect </h2>
 
 <div align="center">
 
