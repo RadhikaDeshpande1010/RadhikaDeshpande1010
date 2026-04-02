@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/Namaste.png" height="25" width="25"></sub> नमस्ते (Namaste) — I'm Radhika Deshpande </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/hello.png" height="25" width="25"></sub> < Hello, World /> — I'm Radhika Deshpande </h2>
 
 **`Data Analytics Professional · Fintech & Global Banking · Pune, India 🇮🇳`**
 
