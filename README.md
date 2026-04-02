@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/raw/main/Snapshots/GITHUB%20Banner%20Snap.gif" width="100%" alt="Radhika Deshpande Banner"/>
+<img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/GITHUB%20Banner.gif" width="100%" alt="Radhika Deshpande Banner"/>
 
 ---
 </div>
@@ -24,7 +24,7 @@
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/WHO_icon.png" height="30" width="30"></sub> Who I Am </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/girl.png" height="33" width="33"></sub> Who I Am </h2>
 
 ```python
 # analytics_philosophy.py
@@ -50,7 +50,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/glance.png" height="35" width="35"></sub>At a Glance </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/glance.png" height="25" width="25"></sub> At a Glance </h2>
 
 <div align="center">
 
@@ -62,7 +62,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/Snapshots/tech2.png" height="25" width="25"></sub> Tech Stack & Toolbox </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/tech.png" height="26" width="26"></sub> Tech Stack & Toolbox </h2>
 
 <details open>
 <summary><b>📊 Analytics & Engineering</b></summary>
@@ -130,7 +130,7 @@ class RadhikaDeshpande:
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/badge.png" height="25" width="25"></sub> Certifications </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/badges.png" height="28" width="28"></sub> Certifications </h2>
 <img src="https://github.com/RadhikaDeshpande1010/RadhikaDeshpande1010/blob/main/my_certifications.png" width="75%" height="60%" align="middle" alt="Radhika Deshpande Certifications"/>
 
 ---
