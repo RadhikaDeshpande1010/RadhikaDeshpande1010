@@ -1,4 +1,4 @@
-<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/my-readme-icons/Flower.png" height="25" width="25"></sub></h2>
+<h2>It's great to connect with you in this space. <sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/lets-talk.png" height="40" width="40"></sub></h2>
 
 <div align="center">
 
@@ -190,7 +190,7 @@ class RadhikaDeshpande:
 
 <div align="center">
 
-<img src="https://github.com/RadhikaDeshpande1010/icon-library/raw/main/my-readme-icons/Thank%20You.png" width="20%" height="20%" alt="Thank You"/>
+<img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/thank%20you.png" width="20%" height="20%" alt="Thank You"/>
 
 *Thank you for visiting my space. Let's make the tech world better —*
 *by writing cleaner code and sharing knowledge freely.* 🌿
