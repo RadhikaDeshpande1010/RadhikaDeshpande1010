@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<h2></sub> < Hello, World /> — I'm Radhika Deshpande </h2>
+<h2> < Hello, World /> — I'm Radhika Deshpande <sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/alpine.png" height="23" width="23"></sub></h2>
 
 **`Data Analytics Professional` · `Fintech & Global Banking` · `Pune, India 🇮🇳`**
 
@@ -24,7 +24,7 @@
 
 ---
 
-<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/girl.png" height="33" width="33"></sub> Who I Am </h2>
+<h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/whoIam.png" height="23" width="23"></sub> Who I Am </h2>
 
 ```python
 # analytics_philosophy.py
@@ -65,7 +65,7 @@ class RadhikaDeshpande:
 <h2><sub><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/tech.png" height="26" width="26"></sub> Tech Stack & Toolbox </h2>
 
 <details open>
-<summary><b>📊 Analytics & Engineering</b></summary>
+<summary><b><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/pie-chart.png" height="20" width="20"></sub> Analytics & Engineering</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -78,7 +78,7 @@ class RadhikaDeshpande:
 </details>
 
 <details open>
-<summary><b>🐍 Python Libraries</b></summary>
+<summary><b><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/python.png" height="18" width="18"> Python Libraries</b></summary>
 <br/>
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -91,7 +91,7 @@ class RadhikaDeshpande:
 </details>
 
 <details open>
-<summary><b>☁️ Big Data, Cloud & Platforms</b></summary>
+<summary><b><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/cloud-computing.png" height="20" width="20"> Big Data, Cloud & Platforms</b></summary>
 <br/>
 
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
@@ -106,7 +106,7 @@ class RadhikaDeshpande:
 </details>
 
 <details>
-<summary><b>🗄️ Data Modeling & Governance</b></summary>
+<summary><b><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/data-management.png" height="18" width="18"> Data Modeling & Governance</b></summary>
 <br/>
 
 ![Erwin](https://img.shields.io/badge/Erwin_Data_Modeler-003366?style=flat-square&logoColor=white)
@@ -117,7 +117,7 @@ class RadhikaDeshpande:
 </details>
 
 <details>
-<summary><b>📐 Statistical Analysis</b></summary>
+<summary><b><img src="https://github.com/RadhikaDeshpande1010/icon-library/blob/main/stats.png" height="16" width="16"> Statistical Analysis</b></summary>
 <br/>
 
 ![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-6A0DAD?style=flat-square&logoColor=white)
